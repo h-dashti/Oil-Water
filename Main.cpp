@@ -17,9 +17,7 @@ The perimeter list are ordered with the site with the largest random number at t
 
 */
 
-
-//#include <conio.h>
-#include <cstdio>
+#include <cstdlib>
 #include <iostream>
 #include <ctime>
 #include <fstream>
